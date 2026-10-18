@@ -442,7 +442,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Build React apps with serverless endpoints, Postgres and auth, run SQL, and publish to a live URL.
 - [GPU Finder](https://gpufinder.dev/api) `https://gpufinder.dev/mcp`
   [![GPU Finder MCP connector](https://glama.ai/mcp/connectors/dev.gpufinder/gpufinder/badges/score.svg)](https://glama.ai/mcp/connectors/dev.gpufinder/gpufinder)
-  🔑 - Live cloud GPU prices, observed stock and 12-month price history across 30+ providers, refreshed hourly.
+  🔓 - Live cloud GPU prices, observed stock and 12-month price history across 30+ providers, refreshed hourly.
 - [Hatch](https://viberooster.com) `https://mcp.theroost.dev/mcp`
   [![Hatch MCP connector](https://glama.ai/mcp/connectors/com.viberooster/hatch/badges/score.svg)](https://glama.ai/mcp/connectors/com.viberooster/hatch)
   🔓 - Publish a live website from an agent in one tool call, expiring or permanent, with human review hooks.
